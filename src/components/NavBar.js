@@ -8,9 +8,9 @@ const NavBar = () => {
     <div>
   <Navbar bg="primary" variant="dark">
     <Container>
-    <Navbar.Brand href="#home">Component</Navbar.Brand>
+    <Navbar.Brand href="#home">Home</Navbar.Brand>
     <Nav className="me-auto">
-      <Nav.Link href="#home">Home</Nav.Link>
+      <Nav.Link href="#home">Profile</Nav.Link>
     </Nav>
     </Container>
   </Navbar>
